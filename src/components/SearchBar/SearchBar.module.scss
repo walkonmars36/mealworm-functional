@@ -23,6 +23,13 @@
     }
   }
 
+  button {
+    background: none;
+    border: none;
+    color: inherit;
+    font: inherit;
+  }
+
   .fa {
     &:hover {
       cursor: pointer;
