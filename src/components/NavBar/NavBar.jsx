@@ -1,7 +1,7 @@
 ﻿import React from "react";
 import styles from "./NavBar.module.scss";
 import logo from "../../assets/plate-secondary.png";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import SearchBar from "../SearchBar";
 
 const NavBar = () => {
